@@ -60,7 +60,7 @@
         ],
         "summary": "Get Financial Institutions",
         "operationId": "searchInstitutions",
-        "description": "<h1>Query examples:</h1></br></br><img src='https://raw.githubusercontent.com/asdfcv345f/ttt/refs/heads/main/new.png'><div><i>This is Penny, she works at BoneBank Inc.</i></div></br>Let's say she wants to get the ZIP codes of all financial institutions,</br>she can do so by making the following request to the API:</br><code>https://api.fdic.gov/institutions?fields=ZIP&format=json</code></br>To query data about specific instituions, like BoneBank, she'd use the search query parameter:</br><code>https://api.fdic.gov/institutions?search=BoneBank&fields=ZIP&format=json</code></br></br>For a detailed description of all parameters see below.",
+        "description": "<h1>Query example:</h1></br></br><img src='https://raw.githubusercontent.com/asdfcv345f/ttt/refs/heads/main/new.png'><div><i>This is Penny, she works at BoneBank Inc.</i></div></br>Let's say she wants to get the ZIP codes of all financial institutions,</br>she can do so by making the following request to the API:</br><code>https://api.fdic.gov/institutions?fields=ZIP&format=json</code></br></br>To query data about specific instituions, like BoneBank, she'd use the search query parameter:</br><code>https://api.fdic.gov/institutions?search=BoneBank&fields=ZIP&format=json</code></br></br>For a detailed description of all parameters see below.",
         "parameters": [
           {
             "in": "query",
